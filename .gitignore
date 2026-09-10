@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+
+*.pkl
+*.parquet
+
+Assignment_1/raw_data/
+Assignment_1/tokenized_output/
+
+Assignment_4/data/
+Assignment_4/models/
+
+Assignment_5/models/
+Assignment_5/results/
